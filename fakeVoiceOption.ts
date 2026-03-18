@@ -4,8 +4,8 @@ export default definePlugin({
     name: "Fake Voice Options",
     description: "fake mute & deafen",
     authors: [{
-        name: "SaucyDuck",
-        id: 1004904120056029256n
+        name: "toha",
+        id: 1315384293203251402n
     }],
     patches: [
         {
