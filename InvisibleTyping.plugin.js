@@ -1,11 +1,10 @@
 /**
- * @name InvisibleTyping
- * @version 1.4.5
- * @author Strencher
- * @authorId 415849376598982656
+ * @name SilentType
+ * @version 1.1
+ * @author toha
+ * @authorId 1315384293203251402
  * @description Enhanced version of silent typing.
- * @source https://github.com/Strencher/BetterDiscordStuff/blob/master/InvisibleTyping/InvisibleTyping.plugin.js
- * @invite gvA2ree
+ * @source https://github.com/necouncil
  * @changelogDate 2025-08-02
  */
 
@@ -16,13 +15,12 @@ const React = BdApi.React;
 
 /* @manifest */
 var manifest = {
-    "name": "InvisibleTyping",
-    "version": "1.4.5",
-    "author": "Strencher",
-    "authorId": "415849376598982656",
+    "name": "SilentType",
+    "version": "1.1",
+    "author": "toha",
+    "authorId": "1315384293203251402",
     "description": "Enhanced version of silent typing.",
-    "source": "https://github.com/Strencher/BetterDiscordStuff/blob/master/InvisibleTyping/InvisibleTyping.plugin.js",
-    "invite": "gvA2ree",
+    "source": "https://github.com/necouncil",
     "changelog": [{
         "title": "It works again!",
         "type": "fixed",
@@ -30,7 +28,7 @@ var manifest = {
             "Fixed for the latest Discord update"
         ]
     }],
-    "changelogDate": "2025-08-02"
+    "changelogDate": "2026-03-18"
 };
 
 /* @api */
